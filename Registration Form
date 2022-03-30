@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+   <head><title>Registration Page</title>
+   </head>
+  <body>
+<h1>Register Here</h1>
+      <table border="1">
+         <form>
+            <tr>
+            <td colspan="2" align="center">
+            <img src="/Storage/emulated/0/Screenshots/">
+            </td>
+            </tr>
+            <tr>
+            <td>
+            First Name
+            </td>
+            <td>
+            <input type="text" name="fname">
+            </td>
+            </tr>
+            <td>
+            Last Name
+            </td>
+            <td>
+            <input type="text" name="lname">
+            </td>
+            </tr>
+            <tr>
+            <td>
+            Email
+            </td>
+            <td>
+            <input type="email" name="email">
+            </td>
+            </tr>
+            <tr>
+            <td>
+            Username
+            </td>
+            <td>
+            <input type="text" name="uname">
+            </td>
+            </tr>
+            <td>
+            Password
+            </td>
+            <td>
+            <input type="password" name="pswd">
+            </td>
+            </tr>
+            <td>
+            Confirm Password
+            </td>
+            <td>
+            <input type="password" name="pswd">
+            </td>
+            </tr>
+            <tr>
+            <td colspan="2" align="center">
+            <input type="submit" name="submit">
+            </td>
+            </tr>
+         </form>
+      </table>
+  </body>
+</html>
